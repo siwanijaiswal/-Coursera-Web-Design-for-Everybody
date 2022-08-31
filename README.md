@@ -14,4 +14,4 @@ section - Achievements
 section - More About Me
 footer - The image from the footer can be found at my website: http://www.intro-webdesign.com/images/newlogo.png
  
- Link of web page:
+ Live Hosted: https://html5-week3.netlify.app/
